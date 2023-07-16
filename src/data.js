@@ -10,7 +10,7 @@ export const projects = [
     title: "Team Tracker",
     subtitle: "Node.js",
     description:"A command line application that allows the user to create a team profile. The user can add a manager, engineer, and intern to the team. The user can also add an email and GitHub username to the engineer and intern.",
-    image: "./Screenshot 2023-05-31 10.56.45.png",
+    image: "./Team Builder.png",
     link: "https://drive.google.com/file/d/1Lta29NUoKEafvP-tWkX-iRzndqR3BRcG/view?usp=drive_link"
   }];
   
